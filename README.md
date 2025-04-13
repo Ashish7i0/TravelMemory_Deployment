@@ -1,4 +1,4 @@
-# Travel Memory
+![image](https://github.com/user-attachments/assets/03af309b-e3ce-4b5f-aed0-9d9336fc96dd)# Travel Memory
 
 `.env` file to work with the backend after creating a database in mongodb: 
 
@@ -29,6 +29,9 @@ Data format to be added:
 For frontend, you need to create `.env` file and put the following content (remember to change it based on your requirements):
 ```bash
 REACT_APP_BACKEND_URL=http://localhost:3001
+![image](https://github.com/user-attachments/assets/10118508-00ec-4c44-8070-771d74be923e)
+
+
 
 
 
